@@ -3,7 +3,7 @@ repositorio de prueba para subir archivos de php
 
 María Fernanda Romo Barbosa
 
-3.-A programación turno matutino
+3.-A programación turno matutino.
 
 ¿Que es GitHub? GitHub es una plataforma en la nube que permite a los desarrolladores almacenar gestionar y colaborar en proyectos de codigo fuente utilizando el sistema de control de versiones Git.
 
